@@ -5,6 +5,7 @@ def menu():
     print("1. Factorial")
     print("2. Prime Check")
     print("3. Exit")
+    print("**Only supports integer input**")
 
 while True:
     menu()
