@@ -3,8 +3,14 @@ def menu():
     print("\n==== Menu ====")
     print("1. Factorial")
     print("2. Prime Check")
+<<<<<<< HEAD
     print("3. GCD")
     print("4. Exit")
+=======
+    print("3. Exit")
+    print("**Only supports integer input**")
+
+>>>>>>> bugfix
 while True:
     menu()
     choice = input("Enter your choice (1-4): ")
